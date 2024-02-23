@@ -71,6 +71,6 @@ h1 {
 }
 
 #start-game:hover {
-    background-color: #43a047; /* Darker on hover */
+    background-color: #47a047; /* Darker on hover */
     transform: scale(1.05); /* Slightly enlarges on hover */
 }
