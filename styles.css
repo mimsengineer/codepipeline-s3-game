@@ -60,7 +60,7 @@ h1 {
 }
 
 #start-game {
-    background-color: #4caf50;
+    background-color: #FFC0CB;
     color: white;
     padding: 12px 24px;
     border: none;
@@ -71,6 +71,6 @@ h1 {
 }
 
 #start-game:hover {
-    background-color: #47a047; /* Darker on hover */
+    background-color: #43a047; /* Darker on hover */
     transform: scale(1.05); /* Slightly enlarges on hover */
 }
